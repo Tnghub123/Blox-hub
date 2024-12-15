@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tnghub123/Blox hub/main/ForPC.lua"))()
